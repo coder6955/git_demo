@@ -1,5 +1,6 @@
 #codeigniter 3
-application/config/*
+#application/config/*
+**/config
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
