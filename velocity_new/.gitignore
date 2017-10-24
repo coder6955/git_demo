@@ -8,6 +8,9 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 
+application/config/*
+/index.php
+
 composer.lock
 
 user_guide_src/build/*
